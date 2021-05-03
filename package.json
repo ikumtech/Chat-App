@@ -1,0 +1,17 @@
+{
+  "name": "chat2",
+  "version": "1.0.0",
+  "description": "Basic Chat application",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js" 
+  },
+  "author": "Ikumtech",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
